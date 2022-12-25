@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#eaf3b9",
+        "editorBracketHighlight.foreground2": "#8de39d",
+        "editorBracketHighlight.foreground3": "#8da8e3",
+        "editorBracketHighlight.foreground4": "#df8de3",
+        "editorBracketHighlight.foreground5": "#e38db8",
+        "editorBracketHighlight.foreground6": "#e3c18d",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000"
+    }
+}

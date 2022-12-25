@@ -1,0 +1,21 @@
+{
+  "name": "warmtoast",
+  "displayName": "WarmToast",
+  "description": "A tasty warm theme with subtle colors for tired eyes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WarmToast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WarmToast-color-theme.json"
+      }
+    ]
+  }
+}
