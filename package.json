@@ -1,14 +1,15 @@
 {
   "name": "warmtoast",
-  "displayName": "WarmToast",
+  "displayName": "Warm Toast",
   "description": "A tasty warm theme with subtle colors for tired eyes.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
@@ -17,5 +18,11 @@
         "path": "./themes/WarmToast-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpasq/VisualStudioCodeThemeWarmToast"
+  },
+  "publisher": "GregPasquariello",
+  "author": "Greg Pasquariello"
 }

@@ -1,10 +1,5 @@
 {
 	"name": "WarmToast",
-	"version": "1.0.0",
-	"publisher": "Greg Pasquariello",
-	"displayName": "Warm Toast",
-	"description": "A warm theme, with toned down classy colors designed to be easy on the eyes.  Smells like toast!""type": "dark",
-	"icon": "images/icon.png""semanticHighlighting": true,
 	"semanticTokenColors": {
 		"enumMember": {
 			"foreground": "#56b6c2"
